@@ -1,6 +1,6 @@
-repository-naam
+Repository-naam
 
-# Repository -naam
+# Repository Name
 
 > Sluglijn
 
@@ -14,7 +14,7 @@ repository-naam
 -   [Subman](./PODMAN.md)
 -   [Referenties](./REFERENCES.md)
 -   [Vereisten](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Telemetrie](./TELEMETRY.md)
 
 **Uitvoerende samenvatting**
 
@@ -24,7 +24,7 @@ Gegenereerd met[Ritr](https://app.rytr.me)
 
 ## 100 - Inleiding
 
-See [README.md](./100/README.md)
+Zien[README.md](./100/README.md)
 
 ## 200 - Vereisten
 
