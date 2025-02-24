@@ -18,8 +18,7 @@ nocodb
 
 **Résumé exécutif**
 
-NOCODB permet de construire des solutions de base de données sans code avec facilité des feuilles de calcul.<br/>
-Bring your own database or choose ours! Millions of rows? Not a problem.<br/>Vos données. Vos règles. Vous contrôlez.
+NOCODB permet de construire des solutions de base de données sans code avec facilité des feuilles de calcul.<br/>Apportez votre propre base de données ou choisissez la nôtre! Des millions de lignes? Pas un problème.<br/>Vos données. Vos règles. Vous contrôlez.
 
 Généré avec[Ritr](https://app.rytr.me)
 
