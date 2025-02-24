@@ -1,8 +1,8 @@
-repository-name
+nocodb
 
-# 存儲庫名稱
+# nocodb
 
-> 板條
+> 將數據庫構建為電子表格：不需要編碼
 
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ repository-name
 
 **執行摘要**
 
-文字
+NocoDB允許使用電子表格易於構建無代碼數據庫解決方案。<br/>帶上自己的數據庫或選擇我們的數據庫！數百萬行？沒問題。<br/>您的數據。您的規則。您正在控制。
 
 生成[ritr](https://app.rytr.me)
 
