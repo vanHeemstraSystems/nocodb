@@ -1,8 +1,8 @@
-اسم المستودع
+NOCODB
 
-# اسم المستودع
+# NOCODB
 
-> Slugline
+> Build Databases As Spreadsheets: No-Coding Required
 
 -   [DNS](./DNS.md)
 -   [الوثائق](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@
 
 **ملخص تنفيذي**
 
-نص
+يتيح NOCODB إنشاء حلول قاعدة بيانات عدم الرمز مع سهولة جداول البيانات.<br/>أحضر قاعدة البيانات الخاصة بك أو اخترنا! ملايين الصفوف؟ ليست مشكلة.<br/>بياناتك. قواعدك. أنت في السيطرة.
 
 ولدت مع[ريتر](https://app.rytr.me)
 
@@ -26,7 +26,7 @@
 
 يرى[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - المتطلبات
 
 يرى[README.md](./200/README.md)
 
