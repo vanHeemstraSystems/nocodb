@@ -1,8 +1,8 @@
-repository-naam
+nocodb
 
-# Repository -naam
+# Nocodb
 
-> Sluglijn
+> Bouw databases als spreadsheets: niet-codering vereist
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ repository-naam
 
 **Uitvoerende samenvatting**
 
-Tekst
+NOCODB maakt het bouwen van no-code database-oplossingen mogelijk met het gemak van spreadsheets.<br/>Neem uw eigen database mee of kies de onze! Miljoenen rijen? Geen probleem.<br/>Uw gegevens. Uw regels. Je hebt de controle.
 
 Gegenereerd met[Ritr](https://app.rytr.me)
 
