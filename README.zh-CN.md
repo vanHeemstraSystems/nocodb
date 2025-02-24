@@ -1,8 +1,8 @@
-repository-name
+nocodb
 
-# 存储库名称
+# nocodb
 
-> 板条
+> Build Databases As Spreadsheets: No-Coding Required
 
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ repository-name
 
 **执行摘要**
 
-文本
+NocoDB允许使用电子表格易于构建无代码数据库解决方案。<br/>带上自己的数据库或选择我们的数据库！数百万行？没问题。<br/>您的数据。您的规则。您正在控制。
 
 生成[ritr](https://app.rytr.me)
 
