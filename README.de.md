@@ -1,8 +1,8 @@
-Repository-Namen
+Nocodb
 
-# Repository -Name
+# Nocodb
 
-> Slugline
+> Build Databases As Spreadsheets: No-Coding Required
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
@@ -18,7 +18,8 @@ Repository-Namen
 
 **Zusammenfassung**
 
-Text
+NocodB ermöglicht das Erstellen von Datenbanklösungen ohne Code mit einfachen Tabellenkalkulationen.<br/>Bringen Sie Ihre eigene Datenbank mit oder wählen Sie unsere! Millionen von Reihen? Kein Problem.<br/>
+Your Data. Your rules. You are in control.
 
 Erzeugt mit[Ritr](https://app.rytr.me)
 
