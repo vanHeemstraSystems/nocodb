@@ -1,8 +1,8 @@
-repositorio
+nocodb
 
-# Nombre de repositorio
+# Nocodb
 
-> Línea de babosa
+> Cree bases de datos como hojas de cálculo: requerido sin codificación
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
@@ -18,7 +18,7 @@ repositorio
 
 **Resumen ejecutivo**
 
-Texto
+Nocodb permite construir soluciones de base de datos sin código con facilidad de hojas de cálculo.<br/>¡Traiga su propia base de datos o elija la nuestra! ¿Millones de filas? No es un problema.<br/>Tus datos. Tus reglas. Tienes el control.
 
 Generado con[Ritro](https://app.rytr.me)
 
