@@ -2,7 +2,7 @@ nocodb
 
 # nocodb
 
-> Build Databases As Spreadsheets: No-Coding Required
+> 将数据库构建为电子表格：不需要编码
 
 -   [DNS](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
@@ -26,7 +26,7 @@ NocoDB允许使用电子表格易于构建无代码数据库解决方案。<br/>
 
 看[README.md](./100/README.md)
 
-## 200-要求
+## 200 - Requirements
 
 看[README.md](./200/README.md)
 
