@@ -2,7 +2,7 @@ Nocodb
 
 # Nocodb
 
-> Build Databases As Spreadsheets: No-Coding Required
+> Erstellen Sie Datenbanken als Tabellenkalkulationen: No-Coding erforderlich
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
@@ -18,8 +18,7 @@ Nocodb
 
 **Zusammenfassung**
 
-NocodB ermöglicht das Erstellen von Datenbanklösungen ohne Code mit einfachen Tabellenkalkulationen.<br/>Bringen Sie Ihre eigene Datenbank mit oder wählen Sie unsere! Millionen von Reihen? Kein Problem.<br/>
-Your Data. Your rules. You are in control.
+NocodB ermöglicht das Erstellen von Datenbanklösungen ohne Code mit einfachen Tabellenkalkulationen.<br/>Bringen Sie Ihre eigene Datenbank mit oder wählen Sie unsere! Millionen von Reihen? Kein Problem.<br/>Ihre Daten. Ihre Regeln. Sie haben die Kontrolle.
 
 Erzeugt mit[Ritr](https://app.rytr.me)
 
@@ -33,7 +32,7 @@ Sehen[README.md](./200/README.md)
 
 ## 300 - Aufbau unserer Bewerbung
 
-Sehen[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - Schlussfolgerung
 
