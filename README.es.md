@@ -1,4 +1,4 @@
-repository-name
+repositorio
 
 # Nombre de repositorio
 
