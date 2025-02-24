@@ -1,4 +1,4 @@
-nom de référentiel
+repository-name
 
 # Nom de référentiel
 
@@ -28,7 +28,7 @@ Voir[README.md](./100/README.md)
 
 ## 200 - exigences
 
-See [README.md](./200/README.md)
+Voir[README.md](./200/README.md)
 
 ## 300 - Construire notre application
 
